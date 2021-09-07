@@ -1,10 +1,10 @@
 variables:
-  ml-ws-connection: 'azmldemows' # Workspace Service Connection name
-  ml-ws: 'aml-demo' # AML Workspace name
-  ml-rg: 'aml-demo' # AML resource Group name
-  ml-ct: 'cpu-cluster-1' # AML Compute cluster name
+  ml-ws-connection: 'Azure Internal Access Subscription' # Workspace Service Connection name
+  ml-ws: 'MLworkspace-003' # AML Workspace name
+  ml-rg: 'SolutionAI-2022' # AML resource Group name
+  ml-ct: 'mlcomput003' # AML Compute cluster name
   ml-path: 'models/diabetes' # Model directory path in repo
-  ml-exp: 'exp-test' # Experiment name
+  ml-exp: 'exp-test-ml' # Experiment name
   ml-model-name: 'diabetes-model' # Model name
   ml-aks-name: 'aks-prod' # AKS cluster name
 
