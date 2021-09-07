@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'Azure Internal Access Subscription' # Workspace Service Connection name
+  ml-ws-connection: '03c050d6-412c-44e8-8fc4-7390141d1dc1' # Workspace Service Connection name
   ml-ws: 'MLworkspace-003' # AML Workspace name
   ml-rg: 'SolutionAI-2022' # AML resource Group name
   ml-ct: 'mlcomput003' # AML Compute cluster name
